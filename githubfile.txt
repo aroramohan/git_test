@@ -7,3 +7,4 @@ git rm filepath                     to remove the file from git versioning or tr
 git diff                            to check the modifications happened in the file
 git commit                          to commit the changes
 git log                             to view the commit history
+git log --oneline                   to view the logs in one line
