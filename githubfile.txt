@@ -14,6 +14,9 @@ git blame <file path>               to view the ownership of the commits
 git status                          to view the staged commits 
 git revert <commit id>              to revert particular changes by a commit
 git reset --hard <commit id>        to point the HEAD to a particular commit
+git branch <branchname>             to create a new branch
+git branch                          to view the branches in local
+git checkout -b <branchname>        to switch to another branch
 
 #comment
 #comment2
