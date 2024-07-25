@@ -6,6 +6,7 @@ git add .                           to start tracking all the files in the curre
 git rm <filepath>                   to remove the file from git versioning or tracking
 git diff                            to check the modifications happened in the file
 git commit                          to commit the changes
+git commit -m <"message">           to add a comment with the commit
 git log                             to view the commit history
 git log --oneline                   to view the logs in one line
 git show <commit id>                to view the commit details
