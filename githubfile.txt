@@ -18,5 +18,5 @@ git branch <branchname>             to create a new branch
 git checkout <branchname>           to switch to another branch
 git checkout -b <branchname>        to create a new branch and switch to that branch together
 git branch                          to view the branches in local
-git merge <branchname>              to merge in the current branch by creating a single commit of the branch
+git merge <branchname>              to merge in the current branch by creating a single commit of the merged branch
 git rebase <branchname>             to merge in the current branch and keep the commit history
