@@ -11,4 +11,6 @@ git log                             to view the commit history
 git log --oneline                   to view the logs in one line
 git show <commit id>                to view the commit details
 git blame <file path>               to view the ownership of the commits 
-git status                          to view the staged commits          
+git status                          to view the staged commits 
+git revert <commit id>              to revert particular changes by a commit
+git reset --hard <commit id>        to point the HEAD to a particular commit
