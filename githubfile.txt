@@ -16,3 +16,4 @@ git revert <commit id>              to revert particular changes by a commit
 git reset --hard <commit id>        to point the HEAD to a particular commit
 
 #comment
+#comment2
