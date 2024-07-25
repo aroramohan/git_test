@@ -1,7 +1,7 @@
 git config --global user.name       to set the name of user
 git config --global user.email      to set the email id of user
 git init                            to initialize the repository (untracked)
-git add <filepath>                  to start tracking the file in git
+git add <filepath>                  to start tracking the file in git or adding the file to staging area
 git add .                           to start tracking all the files in the current repo 
 git rm <filepath>                   to remove the file from git versioning or tracking
 git diff                            to check the modifications happened in the file
@@ -10,4 +10,5 @@ git commit -m <"message">           to add a comment with the commit
 git log                             to view the commit history
 git log --oneline                   to view the logs in one line
 git show <commit id>                to view the commit details
-git blame <file path>               to view the ownership of the commits           
+git blame <file path>               to view the ownership of the commits 
+git status                          to view the staged commits          
